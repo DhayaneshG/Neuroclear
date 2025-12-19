@@ -1,6 +1,10 @@
 # Neuroclear
 NeuroClear is an FPGA-based adaptive noise cancellation system that uses an LMS filter to remove noise from EEG signals in real time, improving signal clarity and reliability for Brain-Computer Interface and medical applications.
 
+## Tech stack
+[![My Skills](https://skillicons.dev/icons?i=python,matlab,c,raspberrypi,vscode&theme=light)](https://skillicons.dev)
+
+
 ## Overview
 Brain-Computer Interfaces (BCIs) are transforming human interaction with technology by enabling users to control devices using neural activity. These systems play a crucial role in assistive technology,neuroprosthetics,cognitive research, and medical diagnostics. However, one of the biggest challenges in BCI development is dealing with signal contamination caused by various noise sources, such as muscle movements (EMG), eye blinks (EOG), and environmental electromagnetic interference (EMI). These unwanted signals obscure the actual brain activity, leading to reduced accuracy and reliability in BCI based applications. 
 
